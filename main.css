@@ -49,14 +49,14 @@ footer {
   height: 70px;
   background-color: black;
   clear: both;
-  margin-top: 100%
+  margin-top: 100%;
 }
 #header {
   font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 }
 body {
   background-color: rgba(250, 170, 22, 1.00);
-  background-image: url("images.jpeg")
+  background-image: url("images/images.jpeg")
 }
 aside {
   width: 90px;
